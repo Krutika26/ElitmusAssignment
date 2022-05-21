@@ -2,7 +2,7 @@
   "name": "elitmus_assignment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Krutika26.github.io/ElitmusAssignment/",
+  "homepage": "http://Krutika26.github.io",
   "dependencies": {
     "-": "^0.0.1",
     "@artsy/fresnel": "^3.5.0",
