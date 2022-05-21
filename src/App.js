@@ -10,7 +10,7 @@ function App() {
       <Router>
         <Routes>
           <Route exact path="/game" element={<Game/>} />
-          <Route exact path="/" element={<Home/>} />
+          <Route exact path="/ElitmusAssignment/" element={<Home/>} />
         </Routes>
       </Router>
     </div>
